@@ -5,10 +5,13 @@ Inspired from <a href="http://jsfiddle.net/">JsFiddle</a>, I created this locale
 <figure>
 	<a href="{{ site.url }}/img/1.png"><img src="/img/1.png"></a>
 </figure>
+
 ---
+
 <figure>
 	<a href="{{ site.url }}/img/2.png"><img src="/img/2.png"></a>
 </figure>
+
 ---
 
 ## Dependencies
