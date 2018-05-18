@@ -16,16 +16,14 @@ Inspired from <a href="http://jsfiddle.net/">JsFiddle</a>, I created this locale
 
 ## Dependencies
 
-- Node
-- Express
-- Socket.io
-- exec
+- Install <a href="https://www.npmjs.com/get-npm">npm</a> before proceeding further.
 
 > Note that the console might require one time internet access on starting the server. This is because, the included libraries are from *cdn* and so it has to fetch the data from the remote server.
 
 ## Steps
 
 - `git clone` this repository.
+- Install the dependencies using - `npm install`
 - Start the **Server** by doing `node index.js`.
 - Head over to <a href="http://127.0.0.1:4000">http://127.0.0.1:4000</a> to access the console.
 
