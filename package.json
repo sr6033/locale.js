@@ -1,0 +1,30 @@
+{
+  "name": "locale.js",
+  "version": "1.0.1",
+  "description": "Locale Javascript Interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sr6033/locale.js.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "interpreter"
+  ],
+  "author": "Shubham Rath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sr6033/locale.js/issues"
+  },
+  "homepage": "https://github.com/sr6033/locale.js#readme",
+  "dependencies": {
+    "exec": "^0.2.1",
+    "express": "^4.16.3",
+    "node": "^10.0.0",
+    "socket.io": "^2.1.1"
+  }
+}
